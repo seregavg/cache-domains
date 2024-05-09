@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "vkplaymailru",
+			"description": "CDN for vkplay",
+			"domain_files": ["vkplay.txt"]
 		}
 	]
 }
