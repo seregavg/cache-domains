@@ -126,6 +126,11 @@
 			"name": "vkplaymailru",
 			"description": "CDN for vkplay",
 			"domain_files": ["vkplay.txt"]
+		},
+		{
+			"name": "lestaru",
+			"description": "CDN for lesta",
+			"domain_files": ["lesta.txt"]
 		}
 	]
 }
