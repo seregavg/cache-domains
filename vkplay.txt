@@ -1,2 +1,4 @@
+static-store.dl.mail.ru
 pkg-store.dl.mail.ru
 store.dl.mail.ru
+*.gc.vkplay.ru
