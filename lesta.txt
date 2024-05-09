@@ -1,0 +1,3 @@
+dl-wotb-gc.lesta.ru
+dl-korabli-s3.lesta.ru
+dl-tanki-s3.lesta.ru
