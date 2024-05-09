@@ -2,6 +2,7 @@ gcdn-lstuscs.lesta.ru
 dht.lesta.ru
 lds.lesta.ru
 luslgc-ru.lesta.ru
+lstusst-lgcru.lesta.ru
 dl-wotb-gc.lesta.ru
 dl-korabli-s3.lesta.ru
 dl-tanki-s3.lesta.ru
