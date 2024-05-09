@@ -1,5 +1,4 @@
 gcdn-lstuscs.lesta.ru
-lstuscs-ru.lesta.ru
 dht.lesta.ru
 lds.lesta.ru
 lstus-ru.lesta.ru
