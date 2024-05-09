@@ -1,6 +1,8 @@
+torrents.lesta.ru
 gcdn-lstuscs.lesta.ru
 dht.lesta.ru
 lds.lesta.ru
+lstus-ru.lesta.ru
 luslgc-ru.lesta.ru
 lstusst-lgcru.lesta.ru
 dl-wotb-gc.lesta.ru
