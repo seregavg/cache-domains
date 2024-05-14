@@ -1,8 +1,2 @@
-global.ping.warface.ru
-novosibirsk.ping.warface.ru
-khabarovsk.ping.warface.ru
-static-store.dl.mail.ru
-pkg-store.dl.mail.ru
-store.dl.mail.ru
-stat.gc.vkplay.ru
-api.vkplay.ru
+retracker.local
+a.root-servers.net
