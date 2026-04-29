@@ -14,6 +14,10 @@
 			"name": "cityofheroes",
 			"description": "CDN for City of Heroes (Homecoming)",
 			"domain_files": ["cityofheroes.txt"]
+		},{
+			"name": "cityofheroes",
+			"description": "CDN for Call of Duty",
+			"domain_files": ["cod.txt"]
 		},
 		{
 			"name": "daybreak",
