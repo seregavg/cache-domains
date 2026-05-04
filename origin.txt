@@ -1,3 +1,6 @@
 origin-a.akamaihd.net
 lvlt.cdn.ea.com
 cdn-patch.swtor.com
+*.akamai.cdn.ea.com
+*.origin-a.akamaihd.net
+*.ea.com
