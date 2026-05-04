@@ -67,6 +67,11 @@
 			"domain_files": ["renegadex.txt"]
 		},
 		{
+      		"name": "riot",
+      		"description": "CDN for Riot Games",
+      		"domain_files": ["riot.txt"]
+    	},
+		{
 			"name": "rockstar",
 			"description": "CDN for rockstar games",
 			"domain_files": ["rockstar.txt"]
