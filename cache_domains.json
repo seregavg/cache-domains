@@ -6,6 +6,11 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
+    		"name": "arenabreakout",
+    		"description": "CDN for Arena Breakout: Infinite",
+    		"domain_files": ["arenabreakout.txt"]
+		},
+		{
 			"name": "bsg",
 			"description": "CDN for Battle State Games, Tarkov",
 			"domain_files": ["bsg.txt"]
@@ -15,7 +20,7 @@
 			"description": "CDN for City of Heroes (Homecoming)",
 			"domain_files": ["cityofheroes.txt"]
 		},{
-			"name": "cityofheroes",
+			"name": "Call of Duty",
 			"description": "CDN for Call of Duty",
 			"domain_files": ["cod.txt"]
 		},
