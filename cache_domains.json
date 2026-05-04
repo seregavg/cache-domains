@@ -30,6 +30,11 @@
 			"domain_files": ["epicgames.txt"]
 		},
 		{
+    		"name": "gaijin",
+    		"description": "CDN for War Thunder and Gaijin games",
+    		"domain_files": ["gaijin.txt"]
+		},
+		{
 			"name": "frontier",
 			"description": "CDN for frontier games",
 			"domain_files": ["frontier.txt"]
