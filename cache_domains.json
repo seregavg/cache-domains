@@ -6,22 +6,26 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
-    		"name": "arenabreakout",
-    		"description": "CDN for Arena Breakout: Infinite",
-    		"domain_files": ["arenabreakout.txt"]
+			"name": "arenabreakout",
+			"description": "CDN for Arena Breakout: Infinite",
+			"mixed_content": true,
+			"domain_files": ["arenabreakout.txt"]
 		},
 		{
 			"name": "bsg",
 			"description": "CDN for Battle State Games, Tarkov",
+			"mixed_content": true,
 			"domain_files": ["bsg.txt"]
 		},
 		{
 			"name": "cityofheroes",
 			"description": "CDN for City of Heroes (Homecoming)",
 			"domain_files": ["cityofheroes.txt"]
-		},{
-			"name": "Call of Duty",
+		},
+		{
+			"name": "cod",
 			"description": "CDN for Call of Duty",
+			"mixed_content": true,
 			"domain_files": ["cod.txt"]
 		},
 		{
@@ -32,12 +36,14 @@
 		{
 			"name": "epicgames",
 			"description": "CDN for Epic Games",
+			"mixed_content": true,
 			"domain_files": ["epicgames.txt"]
 		},
 		{
-    		"name": "gaijin",
-    		"description": "CDN for War Thunder and Gaijin games",
-    		"domain_files": ["gaijin.txt"]
+			"name": "gaijin",
+			"description": "CDN for War Thunder and Gaijin games",
+			"mixed_content": true,
+			"domain_files": ["gaijin.txt"]
 		},
 		{
 			"name": "frontier",
@@ -62,7 +68,6 @@
 		{
 			"name": "origin",
 			"description": "CDN for origin",
-			"notes": "Should be enabled for HTTP traffic only or with a HTTPS proxy else origin client download fails",
 			"mixed_content": true,
 			"domain_files": ["origin.txt"]
 		},
@@ -77,13 +82,15 @@
 			"domain_files": ["renegadex.txt"]
 		},
 		{
-      		"name": "riot",
-      		"description": "CDN for Riot Games",
-      		"domain_files": ["riot.txt"]
-    	},
+			"name": "riot",
+			"description": "CDN for Riot Games",
+			"mixed_content": true,
+			"domain_files": ["riot.txt"]
+		},
 		{
 			"name": "rockstar",
 			"description": "CDN for rockstar games",
+			"mixed_content": true,
 			"domain_files": ["rockstar.txt"]
 		},
 		{
@@ -99,11 +106,13 @@
 		{
 			"name": "steam",
 			"description": "CDN for steam platform",
+			"mixed_content": true,
 			"domain_files": ["steam.txt"]
 		},
 		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
+			"mixed_content": true,
 			"domain_files": ["uplay.txt"]
 		},
 		{
@@ -119,6 +128,7 @@
 		{
 			"name": "wargaming",
 			"description": "CDN for wargaming.net",
+			"mixed_content": true,
 			"domain_files": ["wargaming.net.txt"]
 		},
 		{
@@ -134,6 +144,7 @@
 		{
 			"name": "lestaru",
 			"description": "CDN for lesta",
+			"mixed_content": true,
 			"domain_files": ["lesta.txt"]
 		}
 	]
