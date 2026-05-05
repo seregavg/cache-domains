@@ -146,6 +146,12 @@
 			"description": "CDN for lesta",
 			"mixed_content": true,
 			"domain_files": ["lesta.txt"]
+		},
+		{
+		    "name": "vkplay",
+    		"description": "CDN for VK Play / Mail.ru Games",
+    		"mixed_content": true,
+    		"domain_files": ["vkplay.txt"]
 		}
 	]
 }
