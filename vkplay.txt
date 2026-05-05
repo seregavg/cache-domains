@@ -1,2 +1,6 @@
-retracker.local
-a.root-servers.net
+vkplay.ru
+mail.ru
+imgsmail.ru
+gcdn.co
+static.userapi.com
+my.games
