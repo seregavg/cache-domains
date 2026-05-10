@@ -66,12 +66,6 @@
 			"domain_files": ["nintendo.txt"]
 		},
 		{
-			"name": "origin",
-			"description": "CDN for origin",
-			"mixed_content": true,
-			"domain_files": ["origin.txt"]
-		},
-		{
 			"name": "pathofexile",
 			"description": "CDN for Path Of Exile",
 			"domain_files": ["pathofexile.txt"]
